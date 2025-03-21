@@ -1,0 +1,11 @@
+@charset "ITF-8";
+
+/* Paleta de cores:
+verse = #49A09D
+Lilás = #5F2C82 */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
