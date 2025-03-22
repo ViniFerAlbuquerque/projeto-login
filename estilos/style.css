@@ -12,7 +12,7 @@ Lilás = #5F2C82 */
 }
 
 body, html {
-    background-color: #9090B0;
+    background-color: #d0e0f0;
     height: 100vh;
     width: 100vw;
 }
@@ -38,10 +38,10 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: #5F2C82 url(../imagens/fit.jpg);
-    height: 200px;
+    background: #5F2C82 url(../imagens/life.jpg) no-repeat;
     background-size: cover;
-    background-position: left bottom;
+    background-position: center;
+    height: 200px;
 }
 
 section#login > div#formulario {
